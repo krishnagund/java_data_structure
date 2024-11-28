@@ -6,4 +6,4 @@
  3. compile using java compiler
 
 ## output
-![alt text](Screenshot (55).png)
+![alt text](Screenshot(55).png)
